@@ -1,0 +1,11 @@
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\bin\Debug\BestFitUI.exe.config
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\bin\Debug\BestFitUI.exe
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\bin\Debug\BestFitUI.pdb
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\bin\Debug\MathNet.Numerics.dll
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\bin\Debug\MathNet.Numerics.xml
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\Transform3DBestFitForm.csprojResolveAssemblyReference.cache
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\Transform3DBestFitForm.BestFitUI.resources
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\BestFitUI.Properties.Resources.resources
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\Transform3DBestFitForm.csproj.GenerateResource.Cache
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\BestFitUI.exe
+C:\Users\danielo\Dropbox\Programming\C#\BestFitUI\BestFitUI\obj\Debug\BestFitUI.pdb

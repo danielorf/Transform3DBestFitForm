@@ -1,0 +1,10 @@
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\bin\Debug\BestFitUI.exe.config
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\obj\Debug\BestFitUI.exe
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\obj\Debug\BestFitUI.pdb
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\bin\Debug\BestFitUI.exe
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\bin\Debug\BestFitUI.pdb
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\bin\Debug\MathNet.Numerics.dll
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\bin\Debug\MathNet.Numerics.xml
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\obj\Debug\BestFitUI.Properties.Resources.resources
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\obj\Debug\Transform3DBestFitApp.csproj.GenerateResource.Cache
+C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFitApp\BestFitUI\obj\Debug\Transform3DBestFitApp.BestFitForm.resources
