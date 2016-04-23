@@ -60,7 +60,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Transform3D.cs" />
     <EmbeddedResource Include="BestFitForm.resx">
       <DependentUpon>BestFitForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +84,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Transform3DBestFit\Transform3DBestFit\Transform3DBestFit.csproj">
+      <Project>{52c724be-7420-4c0a-98bd-4f046ca09a73}</Project>
+      <Name>Transform3DBestFit</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
